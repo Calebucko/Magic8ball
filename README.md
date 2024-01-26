@@ -13,8 +13,7 @@
       create a variable named "choice" that gets input (choose a number 1-10)
       create for loop that corresponds to fortune indices
       print fortune that corresponds to number user gives
-    else:
-      print (guess you don't care about what your options are. mean)
+    
 
     If user picks option 3
       create a variable named question that gets the input (ask your question, recieve your fortune)
